@@ -2,7 +2,7 @@ title: STMicroelectronics.GitHub.io
 description: STMicroelectronics Open Source
 google_analytics: UA-1698022-17
 show_downloads: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-merlot
 
 gems:
   - jekyll-mentions
